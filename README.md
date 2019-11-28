@@ -1,6 +1,6 @@
 
 # <center> 权限管理Shiro
-[!toc]
+
 --------
 <!-- TOC -->
 - [1. Shior是什么](#1-shior是什么)
